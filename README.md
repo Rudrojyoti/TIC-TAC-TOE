@@ -10,19 +10,6 @@ iii.Clear win/tie detection: Instantly announces the winner or a draw.
 
 Demo: ![Screenshot 2025-07-01 183104](https://github.com/user-attachments/assets/fa2235cc-38c8-48f1-8840-5264c8d415ec)
 
-Getting Started
-To run the game locally:
-
-1. Clone the repository:
-git clone https://github.com/MannaRudrojyoti_24/9.Tic-tac-toe/app.js
-
-
-3. Navigate to the project folder:
-cd tic-tac-toe-js
-
-
-Open index.html in your browser.
-
 No additional dependencies required!
 
 How to Play
