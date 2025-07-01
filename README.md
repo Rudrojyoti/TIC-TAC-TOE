@@ -14,7 +14,7 @@ Getting Started
 To run the game locally:
 
 1. Clone the repository:
-git clone https://github.com/MannaRudrojyoti_24/tic-tac-toe-js.git
+git clone https://github.com/MannaRudrojyoti_24/9.Tic-tac-toe/app.js
 
 
 3. Navigate to the project folder:
